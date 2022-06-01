@@ -10,7 +10,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* *Omoloye Oluwatobi* <[EllaLawrie](https://github.com/Omoloye)>
+* *Omoloye Oluwatobi* <[omoloye](https://github.com/Omoloye)>
 
 ## Acknowledgements :pray:
 
